@@ -1,0 +1,30 @@
+@media(max-width: 1399.98px){
+    header{
+        padding: 130px 0 200px;
+    }
+}
+@media(max-width: 1199.98px){
+    section.container{
+        flex-direction: column;
+        align-items: center;
+    }
+    .content-left{
+        margin-bottom: 30px;
+    }
+    .card{
+        margin-bottom: 30px;
+    }
+}
+@media(max-width: 991.98px){
+    nav.container{
+        flex-direction: column;
+        padding-top: 20px;
+    }
+    .logo{margin-bottom: 20px;}
+}
+@media(max-width: 767.98px){
+    
+}
+@media(max-width: 575.98px){
+    
+}
